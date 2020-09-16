@@ -14,6 +14,21 @@
     max-width: 500px;
 }
 
+.container-conteudo-contato{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #1e1f20;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+.container-produtos{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 2px solid rgb(63, 63, 63);
+    border-radius: 10px;
+}
+
 .container-contato{
     padding: 8px;
     background-color: rgb(33, 29, 41);
@@ -47,4 +62,13 @@ footer{
 
 .btn-controle{
     width: 49%;
+}
+
+img{
+   margin-top: 15px;
+}
+
+.card{
+    margin: 10px;
+    text-align: center;
 }
